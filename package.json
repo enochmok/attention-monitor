@@ -1,0 +1,17 @@
+{
+  "name": "attention-monitor",
+  "version": "1.0.0",
+  "description": "This is for the app attention-monitor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AI-Mnemonic (Enochmok)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "crypto": "^1.0.1",
+    "express": "^4.18.1",
+    "mongodb": "^4.7.0"
+  }
+}
